@@ -194,9 +194,9 @@ namespace OOP_Assessment_Two
                     }
                 }
             }
-            catch 
+            catch (Exception ex)
             {
-                Console.WriteLine("No list was passed?");
+                Console.WriteLine(ex.Message);
                 return 0;
             }
             
