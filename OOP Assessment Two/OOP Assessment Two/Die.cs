@@ -31,5 +31,6 @@ namespace OOP_Assessment_Two
             _dieValue = rnd.Next(1, 7);
             return _dieValue;
         }
+
     }
 }
