@@ -1,0 +1,16 @@
+Test
+Final winning score: 21
+Die roll is: 5
+Final roll was: 7
+The Log for the test that started at: 23/04/2024 11:56:23
+Was the sum correct? True
+Final winning score: 21
+Die roll is: 5
+Final sum of rolls in Sevens Out was: 7
+----------------
+The Log for the test that started at: 23/04/2024 11:57:57
+Was the sum correct? True
+Final winning score: 21
+Die roll is: 2
+Final sum of rolls in Sevens Out was: 7
+----------------
